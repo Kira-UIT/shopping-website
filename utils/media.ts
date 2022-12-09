@@ -9,7 +9,7 @@ import ArrowRight from "@/assets/svgs/arrow-right.svg";
 import LogoAmazon from "@/assets/svgs/branch-amazon.svg";
 import LogoHM from "@/assets/svgs/branch-hm.svg";
 import LogoLacoste from "@/assets/svgs/branch-lacoste.svg";
-import LogoLevis from "@/assets/svgs/branch-Levis.svg";
+import LogoLevis from "@/assets/svgs/branch-levis.svg";
 import LogoObey from "@/assets/svgs/branch-obey.svg";
 import LogoShopify from "@/assets/svgs/branch-shopify.svg";
 import FacebookIcon from "@/assets/svgs/facebook-icon.svg";
